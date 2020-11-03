@@ -2,7 +2,8 @@
 
 ## Pré requisitos
 
-jsonwebtoken v8.5.1 e node.js v13.7.0
+jsonwebtoken v8.5.1<br/>
+node.js v13.7.0
 
 ## Usando Certificado (p12)
 
